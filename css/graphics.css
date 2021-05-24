@@ -338,9 +338,9 @@ section.intro h1 {
 }
 #cover ul li.lg{opacity: 0;}
 
-#cover ul .st0{left: 0px;background-image: url(img/section_0_lg.png);}
-#cover ul .st1{left: 1100px;background-image: url(img/section_1_lg.png);}
-#cover ul .st2{left: -1100px;background-image: url(img/section_2_lg.png);}
+#cover ul .st0{left: 0px;background-image: url(../img/section_0_lg.png);}
+#cover ul .st1{left: 1100px;background-image: url(../img/section_1_lg.png);}
+#cover ul .st2{left: -1100px;background-image: url(../img/section_2_lg.png);}
 
 /* CHOOSE POSTURE */
 
